@@ -1,5 +1,10 @@
 # Letta Python SDK Tutorial 
 
+To run this tutorial, you will need: 
+* Python >= 3.10
+* OpenAI API key 
+* Docker (optional) 
+
 ## Setting up a Letta server
 To run this tutorial, you will need access to a Letta server. 
 
