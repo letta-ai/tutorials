@@ -36,7 +36,7 @@ docker run \
 You can also install a Letta server via pip:
 ```sh
 # install the letta server
-pip install 'letta>=0.6.30'
+pip install 'letta[all]>=0.6.30'
 ```
 ```sh
 # run the letta server
