@@ -26,7 +26,7 @@ docker pull letta/letta:latest
 ```
 Run the server:
 ```sh
-docker run \                                                                                                            ─╯
+docker run \
   -v ~/.letta/.persist/pgdata:/var/lib/postgresql/data \
   -p 8283:8283 \
   letta/letta:latest
