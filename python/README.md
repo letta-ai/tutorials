@@ -2,10 +2,20 @@
 
 To run this tutorial, you will need: 
 * Python >= 3.10
-* Docker (optional) 
+* Docker (optional)
+
+## Getting the tutorial files
+```sh
+git clone https://github.com/letta-ai/tutorials
+```
+```sh
+cd tutorials/python
+```
 
 ## Setting up a Letta server
-To run this tutorial, you will need access to a Letta server. 
+To run this tutorial, you will need access to a Letta server.
+
+You will need to run the Letta server in the background (e.g. in a separate terminal window) while you execute the code in the notebook.
 
 ### Running with Docker (recommended) 
 ```
