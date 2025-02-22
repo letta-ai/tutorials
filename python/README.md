@@ -15,7 +15,7 @@ docker run \                                                                    
   letta/letta:latest
 ```
 
-### Running the `pip` 
+### Running with `pip` 
 You can also install a Letta server via pip:
 ```
 # install the letta server
